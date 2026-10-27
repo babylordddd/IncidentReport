@@ -1,0 +1,110 @@
+{
+  "stricter_penalty": {
+    "rules + policy @ old policy (tuned for $500)": {
+      "urgent_threshold_p": 0.07407407407407407,
+      "missed_urgent": 0.0,
+      "false_urgent": 53.0,
+      "abstain_rate": 0.0,
+      "urgent_recall_after_policy": 1.0,
+      "business_cost_per_report_at_2000": 26.57608695652174
+    },
+    "tfidf-logreg + policy @ old policy (tuned for $500)": {
+      "urgent_threshold_p": 0.07407407407407407,
+      "missed_urgent": 0.0,
+      "false_urgent": 22.0,
+      "abstain_rate": 0.30434782608695654,
+      "urgent_recall_after_policy": 1.0,
+      "business_cost_per_report_at_2000": 22.804347826086957
+    },
+    "ollama_qwen2.5-7b + policy @ old policy (tuned for $500)": {
+      "urgent_threshold_p": 0.07407407407407407,
+      "missed_urgent": 1.0,
+      "false_urgent": 6.0,
+      "abstain_rate": 0.18478260869565216,
+      "urgent_recall_after_policy": 0.9666666666666667,
+      "business_cost_per_report_at_2000": 27.358695652173914
+    },
+    "hybrid: tfidf -> ollama_qwen2.5-7b @ old policy (tuned for $500)": {
+      "urgent_threshold_p": 0.07407407407407407,
+      "missed_urgent": 0.0,
+      "false_urgent": 14.0,
+      "abstain_rate": 0.06521739130434782,
+      "urgent_recall_after_policy": 1.0,
+      "business_cost_per_report_at_2000": 15.445652173913043
+    },
+    "rules + policy @ re-derived policy ($2000)": {
+      "urgent_threshold_p": 0.0196078431372549,
+      "missed_urgent": 0.0,
+      "false_urgent": 53.0,
+      "abstain_rate": 0.0,
+      "urgent_recall_after_policy": 1.0,
+      "business_cost_per_report_at_2000": 26.57608695652174
+    },
+    "tfidf-logreg + policy @ re-derived policy ($2000)": {
+      "urgent_threshold_p": 0.0196078431372549,
+      "missed_urgent": 0.0,
+      "false_urgent": 36.0,
+      "abstain_rate": 0.1956521739130435,
+      "urgent_recall_after_policy": 1.0,
+      "business_cost_per_report_at_2000": 30.141304347826086
+    },
+    "ollama_qwen2.5-7b + policy @ re-derived policy ($2000)": {
+      "urgent_threshold_p": 0.0196078431372549,
+      "missed_urgent": 0.0,
+      "false_urgent": 53.0,
+      "abstain_rate": 0.0,
+      "urgent_recall_after_policy": 1.0,
+      "business_cost_per_report_at_2000": 26.032608695652176
+    },
+    "hybrid: tfidf -> ollama_qwen2.5-7b @ re-derived policy ($2000)": {
+      "urgent_threshold_p": 0.0196078431372549,
+      "missed_urgent": 0.0,
+      "false_urgent": 52.0,
+      "abstain_rate": 0.0,
+      "urgent_recall_after_policy": 1.0,
+      "business_cost_per_report_at_2000": 31.57608695652174
+    }
+  },
+  "new_category": {
+    "rules v1": {
+      "note": "0 | no category for cold chain",
+      "category_accuracy": 0.6,
+      "new_category_recall": 0.0,
+      "old_categories_accuracy": 0.9,
+      "urgent_recall": 0.7391304347826086,
+      "abstain_rate": 0.31666666666666665,
+      "business_cost_per_report": 19.983333333333334,
+      "labelled_examples_needed": "0"
+    },
+    "rules v2 (+10 keywords)": {
+      "note": "0 | one keyword list added",
+      "category_accuracy": 0.8833333333333333,
+      "new_category_recall": 0.85,
+      "old_categories_accuracy": 0.9,
+      "urgent_recall": 1.0,
+      "abstain_rate": 0.03333333333333333,
+      "business_cost_per_report": 25.616666666666667,
+      "labelled_examples_needed": "0"
+    },
+    "tfidf v1": {
+      "note": "0 | old model, cannot output the new class",
+      "category_accuracy": 0.48333333333333334,
+      "new_category_recall": 0.0,
+      "old_categories_accuracy": 0.725,
+      "urgent_recall": 0.6956521739130435,
+      "abstain_rate": 0.8333333333333334,
+      "business_cost_per_report": 5.0,
+      "labelled_examples_needed": "0"
+    },
+    "tfidf retrained (+20 labels)": {
+      "note": "20 | retrained with newly labelled reports",
+      "category_accuracy": 0.6833333333333333,
+      "new_category_recall": 0.6,
+      "old_categories_accuracy": 0.725,
+      "urgent_recall": 0.9130434782608695,
+      "abstain_rate": 0.7833333333333333,
+      "business_cost_per_report": 4.7,
+      "labelled_examples_needed": "20"
+    }
+  }
+}

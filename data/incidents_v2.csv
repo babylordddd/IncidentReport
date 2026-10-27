@@ -1,0 +1,81 @@
+id,split,split_random,text,category,urgency,difficulty,template_id
+V2-0001,v2,v2,Ops note - Escalating!! Our toys delivery was 2 hours late and the driver was rude. Please sort this out.,delivery_delay,normal,hard,-1
+V2-0002,v2,v2,"Call log: Datalogger on SHP-42985 shows insulin at 15°C for the last 40 minutes, limit is 8°C. Still in transit.",temperature_excursion,urgent,easy,-1
+V2-0003,v2,v2,"Shift lead: Monthly cold-chain report: two minor excursions on the frozen chicken lane, both released by QA.",temperature_excursion,normal,easy,-1
+V2-0004,v2,v2,"Ticket via portal: Fire in the battery charging area at Warehouse B, fire brigade on the way.",safety_incident,urgent,easy,-1
+V2-0005,v2,v2,"Shift lead: Monthly cold-chain report: two minor excursions on teh cut flowers lane, both released by QA.",temperature_excursion,normal,easy,-1
+V2-0006,v2,v2,"Ticket via portal: Datalogger on SHP-95450 shows chilled dairy at 12°C for the last 40 minutes, limit is 8°C. Still in transit.",temperature_excursion,urgent,easy,-1
+V2-0007,v2,v2,"From the yard: Driver reports someone is cutting the curtain of trailer at Rotterdam DC right now, he is watching from the cab. Load is books.",lost_or_stolen,urgent,easy,-1
+V2-0008,v2,v2,"Post-delivery review: logger for SHP-68857 recorded a 6 minute spike to 12°C Monday. Within stability budget, QA informed.",temperature_excursion,normal,easy,-1
+V2-0009,v2,v2,"Driver report: Datalogger on SHP-49717 shows insulin at 9°C for the last 40 minutes, limit is 8°C. Still in transit.",temperature_excursion,urgent,easy,-1
+V2-0010,v2,v2,"From the yard: Cold room door at Bay 12 left open overnight, clinical trial kits reading 11 degrees. Product at risk.",temperature_excursion,urgent,easy,-1
+V2-0011,v2,v2,"WhatsApp from driver: Pallet collapsed at the Dublin yard and garden tools is spread across the main yard road, trucks can't get in or out.",damaged_goods,urgent,easy,-1
+V2-0012,v2,v2,"Call log: Pallet jack at the M6 services near Stafford handle snapped, using the other one.",vehicle_equipment_failure,normal,hard,-1
+V2-0013,v2,v2,"Call log: Cold room door at Leeds hub left open overnight, blood samples reading 15 degrees. Product at risk.",temperature_excursion,urgent,easy,-1
+V2-0014,v2,v2,"Email from customer: Chiller at Warehouse B reading 12C and climbing, frozen chicken inside. Engineer not answering.",temperature_excursion,urgent,hard,-1
+V2-0015,v2,v2,"Someone just drove off with our trailer from the Tilbury berth, the yard CCTV shows it now.",lost_or_stolen,urgent,hard,-1
+V2-0016,v2,v2,"Ops note - van 3 wont start, its the spare one, nobody needs it this week.",vehicle_equipment_failure,normal,hard,-1
+V2-0017,v2,v2,"Shift lead: Monthly cold-chain report: two minor excursions on the vaccines lane, both released by QA.",temperature_excursion,normal,easy,-1
+V2-0018,v2,v2,Call log: Need ADR paperwork updated for aerosol cans before teh yesterday shipment.,documentation_customs,normal,easy,-1
+V2-0019,v2,v2,Driver report: Forklift tines punctured 30 cartons of toys in the racking. Stock quarantined for inspection.,damaged_goods,normal,easy,-1
+V2-0020,v2,v2,"Driver report: Cold room door at the Tilbury berth left open overnight, fresh fish reading 15 degrees. Product at risk.",temperature_excursion,urgent,easy,-1
+V2-0021,v2,v2,"WhatsApp from driver: delivery note for initech has the wrong address, goods delivered correctly though.",documentation_customs,normal,easy,-1
+V2-0022,v2,v2,"Email from customer: chiller at hamburg port reading 15c and climbing, vaccines inside. engineer not answering.",temperature_excursion,urgent,hard,-1
+V2-0023,v2,v2,"Post-delivery review: logger for SHP-74845 recorded a 6 minute spike to 14°C Tuesday. Within stability budget, QA informed.",temperature_excursion,normal,easy,-1
+V2-0024,v2,v2,"From the yard: Reefer alarm on the trailer: setpoint 2-8C, current 15C, load is insulin for Initech.",temperature_excursion,urgent,easy,-1
+V2-0025,v2,v2,"Email from customer: Reefer alarm on the trailer: setpoint 2-8C, current 15C, load is clinical trial kits for Acme Foods.",temperature_excursion,urgent,easy,-1
+V2-0026,v2,v2,"WhatsApp from driver: Main sorter at Warehouse B has stopped completely during peak, 4000 parcels for same-day dispatch stuck.",vehicle_equipment_failure,urgent,easy,-1
+V2-0027,v2,v2,"Shift lead: minor cut to a picker's finger from a box cutter tuesday, plaster applied, back at work. logging per policy.",safety_incident,normal,easy,-1
+V2-0028,v2,v2,"Ticket via portal: dock leveller 5 down since this morning, picking manually. Engineer coming at 3pm.",vehicle_equipment_failure,normal,easy,-1
+V2-0029,v2,v2,"Chiller at the Dublin yard reading 11C and climbing, fresh fish inside. Engineer not answering.",temperature_excursion,urgent,hard,-1
+V2-0030,v2,v2,"Call log: Cold room door at Dock 7 left open overnight, blood samples reading 15 degrees. Product at risk.",temperature_excursion,urgent,easy,-1
+V2-0031,v2,v2,"Worker injured at Coventry DC, forklift ran over his foot. Ambulance called.",safety_incident,urgent,easy,-1
+V2-0032,v2,v2,Driver report: Temp excursion! blood samples pallet sat on the warm dock for 2h before being put in the chiller.,temperature_excursion,urgent,easy,-1
+V2-0033,v2,v2,"Driver report: Import licence for Wayne Hardware expires next month, please renew.",documentation_customs,normal,hard,-1
+V2-0034,v2,v2,"Driver report: Box of paper rolls damaged during transit, customer wants replacement.",damaged_goods,normal,hard,-1
+V2-0035,v2,v2,WhatsApp from driver: Temp excursion! frozen chicken pallet sat on the warm dock for 9h before being put in the chiller.,temperature_excursion,urgent,easy,-1
+V2-0036,v2,v2,"Driver report: Import licence for Initech expires next month, please renew.",documentation_customs,normal,hard,-1
+V2-0037,v2,v2,"Email from customer: Box of retail clothing damaged during transit, customer wants replacement.",damaged_goods,normal,hard,-1
+V2-0038,v2,v2,"Driver report: Reefer alarm on the trailer: setpoint 2-8C, current 14C, load is clinical trial kits for Fabrikam.",temperature_excursion,urgent,easy,-1
+V2-0039,v2,v2,Ops note - Calibration of the temperature probes at Rotterdam DC is overdue.,temperature_excursion,normal,easy,-1
+V2-0040,v2,v2,"Email from customer: Chiller at Gate 4 at Felixstowe reading 12C and climbing, chilled dairy inside. Engineer not answering.",temperature_excursion,urgent,hard,-1
+V2-0041,v2,v2,"WhatsApp from driver: Reefer alarm on the trailer: setpoint 2-8C, current 15C, load is clinical trial kits for Stark Home.",temperature_excursion,urgent,easy,-1
+V2-0042,v2,v2,From the yard: Calibration of the temperature probes at the Milton Keynes cross-dock is overdue.,temperature_excursion,normal,easy,-1
+V2-0043,v2,v2,"Ops note - Datalogger on SHP-53497 shows insulin at 15°C for the last 40 minutes, limit is 8°C. Still in transit.",temperature_excursion,urgent,easy,-1
+V2-0044,v2,v2,DISGUSTING SERVICE. My furniture arrived smashed to pieces!!! I need this fixed ASAP or I go to the press.,damaged_goods,normal,hard,-1
+V2-0045,v2,v2,"Ops note - Datalogger on SHP-96677 shows chilled dairy at 12°C for the last 40 minutes, limit is 8°C. Still in transit.",temperature_excursion,urgent,easy,-1
+V2-0046,v2,v2,"From the yard: Someone just drove off with our trailer from Warehouse B, the yard CCTV shows it now.",lost_or_stolen,urgent,hard,-1
+V2-0047,v2,v2,"Call log: queue at coventry dc is long, driver waiting 3h. load is garden tools, not time critical.",delivery_delay,normal,easy,-1
+V2-0048,v2,v2,Ops note - Calibration of the temperature probes at Leeds hub is overdue.,temperature_excursion,normal,easy,-1
+V2-0049,v2,v2,"Ticket via portal: Break-in at Warehouse B happening, alarm going off and two people seen loading books into a van.",lost_or_stolen,urgent,easy,-1
+V2-0050,v2,v2,"From the yard: blood samples for Initech stuck in traffic, delivery window closes in 20 minutes and the hospital has no stock left.",delivery_delay,urgent,easy,-1
+V2-0051,v2,v2,Call log: Pallet missing!!! Where is my stuff?!?! SHP-27151 was due yesterday. Answer me!!,lost_or_stolen,normal,hard,-1
+V2-0052,v2,v2,"Umbrella Pharma asking for the temperature log PDF for SHP-41099, delivered yesterday.",temperature_excursion,normal,easy,-1
+V2-0053,v2,v2,Shift lead: calibration of the temperature probes at the tilbury berth is overdue.,temperature_excursion,normal,easy,-1
+V2-0054,v2,v2,"Ticket via portal: Reefer alarm on the trailer: setpoint 2-8C, current 14C, load is blood samples for Tailspin Medical.",temperature_excursion,urgent,easy,-1
+V2-0055,v2,v2,"WhatsApp from driver: Tail lift on van 3 is slow to lower, still usable, please schedule a service.",vehicle_equipment_failure,normal,easy,-1
+V2-0056,v2,v2,Ticket via portal: BROKEN AGAIN!!! the sorter is a joke. Fix it properly this time!!!,vehicle_equipment_failure,normal,hard,-1
+V2-0057,v2,v2,"Shift lead: Pallet of paper rolls dropped during unloading at Hamburg port, about 26 units broken. No one hurt.",damaged_goods,normal,easy,-1
+V2-0058,v2,v2,"Email from customer: Monthly cold-chain report: two minor excursions on the chilled dairy lane, both released by QA.",temperature_excursion,normal,easy,-1
+V2-0059,v2,v2,"Ticket via portal: Spill of chlorine tablets on the motorway hard shoulder from our trailer, highways agency on scene.",safety_incident,urgent,easy,-1
+V2-0060,v2,v2,"From the yard: Labels printed with the wrong barcode on 6 cartons, relabelling at the Dublin yard.",documentation_customs,normal,easy,-1
+V2-0061,v2,v2,"Driver report: Cold room door at Antwerp terminal left open overnight, vaccines reading 14 degrees. Product at risk.",temperature_excursion,urgent,easy,-1
+V2-0062,v2,v2,"Ticket via portal: Driver collapsed in the cab at Gate 4 at Felixstowe, first aider with him, not responding well.",safety_incident,urgent,easy,-1
+V2-0063,v2,v2,"Shift lead: Labels printed with the wrong barcode on 17 cartons, relabelling at Antwerp terminal.",documentation_customs,normal,easy,-1
+V2-0064,v2,v2,Shift lead: Temp excursion! cut flowers pallet sat on the warm dock for 2h before being put in the chiller.,temperature_excursion,urgent,easy,-1
+V2-0065,v2,v2,Email from customer: Consignment SHP-85225 is held up behind a strike at Dock 7. Rescheduling with Wayne Hardware.,delivery_delay,normal,hard,-1
+V2-0066,v2,v2,"Call log: Post-delivery review: logger for SHP-52313 recorded a 6 minute spike to 12°C Monday. Within stability budget, QA informed.",temperature_excursion,normal,easy,-1
+V2-0067,v2,v2,"Ops note - Umbrella Pharma asking for the temperature log PDF for SHP-18760, delivered yesterday.",temperature_excursion,normal,easy,-1
+V2-0068,v2,v2,Shift lead: consignment shp-89361 is held up behind a strike at the m6 services near stafford. rescheduling with northwind.,delivery_delay,normal,hard,-1
+V2-0069,v2,v2,"Ticket via portal: Truck trailer TR-221 has failed brakes and rolled into the gatehouse, the guard is trapped inside.",safety_incident,urgent,hard,-1
+V2-0070,v2,v2,WhatsApp from driver: Temp excursion! chilled dairy pallet sat on the warm dock for 7h before being put in the chiller.,temperature_excursion,urgent,easy,-1
+V2-0071,v2,v2,"WhatsApp from driver: Strong smell of gas near Dock 7, two staff feeling sick, we have stopped work.",safety_incident,urgent,hard,-1
+V2-0072,v2,v2,"Shift lead: Tailspin Medical asking for the temperature log PDF for SHP-88569, delivered last week.",temperature_excursion,normal,easy,-1
+V2-0073,v2,v2,"From the yard: Strong smell of gas near Dock 7, two staff feeling sick, we have stopped work.",safety_incident,urgent,hard,-1
+V2-0074,v2,v2,"Shift lead: Pallet jack at Dock 7 handle snapped, using the other one.",vehicle_equipment_failure,normal,hard,-1
+V2-0075,v2,v2,"Shift lead: the reefer unit on trailer 9 down since this morning, picking manually. Engineer coming at 3pm.",vehicle_equipment_failure,normal,easy,-1
+V2-0076,v2,v2,From the yard: Temp excursion! chilled dairy pallet sat on the warm dock for 6h before being put in the chiller.,temperature_excursion,urgent,easy,-1
+V2-0077,v2,v2,"Call log: Wayne Hardware asking for the temperature log PDF for SHP-90690, delivered Friday.",temperature_excursion,normal,easy,-1
+V2-0078,v2,v2,Driver report: DISGUSTING SERVICE. My books arrived smashed to pieces!!! I need this fixed ASAP or I go to the press.,damaged_goods,normal,hard,-1
+V2-0079,v2,v2,"Driver report: Customer Acme Foods reports water damage on 26 boxes of furniture. Delivered Friday, raising a claim.",damaged_goods,normal,easy,-1
+V2-0080,v2,v2,"Post-delivery review: logger for SHP-61945 recorded a 6 minute spike to 14°C Monday. Within stability budget, QA informed.",temperature_excursion,normal,easy,-1

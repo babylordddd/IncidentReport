@@ -1,0 +1,22 @@
+skipping gemini-3.5-flash-lite: cache incomplete (run scripts/run_llm.py --model gemini-3.5-flash-lite)
+
+== unseen_wording (n=92, tfidf {'features': 'word+char', 'C': 10.0})
+                                    cat_acc  urg_recall  abstain  missed_urg  biz$/rep  api$/1k   p50_ms
+rules (no abstain)                    0.859       1.000    0.000       0.000    26.576    0.000    0.022
+rules + policy                        0.859       1.000    0.000       0.000    26.576    0.000    0.022
+tfidf-logreg (argmax)                 0.370       0.359    0.000      25.000   148.424    0.000    0.969
+tfidf-logreg + policy                 0.370       0.821    0.304       0.000    22.804    0.000    0.969
+ollama_qwen2.5-7b (argmax)            0.880       0.744    0.000      10.000    58.859    0.000 3040.614
+ollama_qwen2.5-7b + policy            0.880       0.744    0.185       1.000    11.054    0.000 3040.614
+hybrid: tfidf -> ollama_qwen2.5-7b    0.630       0.949    0.065       0.000    15.446    0.000    1.013
+skipping gemini-3.5-flash-lite: cache incomplete (run scripts/run_llm.py --model gemini-3.5-flash-lite)
+
+== seen_wording (n=90, tfidf {'features': 'word', 'C': 0.3})
+                                    cat_acc  urg_recall  abstain  missed_urg  biz$/rep  api$/1k   p50_ms
+rules (no abstain)                    0.889       1.000    0.000       0.000    27.222    0.000    0.023
+rules + policy                        0.889       0.886    0.067       0.000    25.900    0.000    0.023
+tfidf-logreg (argmax)                 0.967       0.971    0.000       1.000     6.389    0.000    0.377
+tfidf-logreg + policy                 0.967       1.000    0.156       0.000     2.989    0.000    0.377
+ollama_qwen2.5-7b (argmax)            0.856       0.829    0.000       6.000    37.722    0.000 3096.108
+ollama_qwen2.5-7b + policy            0.856       0.829    0.167       0.000     5.389    0.000 3096.108
+hybrid: tfidf -> ollama_qwen2.5-7b    0.967       0.971    0.111       0.000     2.833    0.000 2841.179

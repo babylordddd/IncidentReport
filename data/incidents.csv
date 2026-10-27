@@ -1,0 +1,361 @@
+id,split,split_random,text,category,urgency,difficulty,template_id
+INC-0001,test,val,"Driver report: Pallet collapsed at Gate 4 at Felixstowe and bottled drinks is spread across teh main yard road, trucks can't get in or out.",damaged_goods,urgent,easy,22
+INC-0002,test,val,Email from customer: Forklift tines punctured 13 cartons of books in the racking. Stock quarantined for inspection.,damaged_goods,normal,easy,20
+INC-0003,test,test,"WhatsApp from driver: Pallet collapsed at Bay 12 and bottled drinks is spread across the main yard road, trucks can't get in or out.",damaged_goods,urgent,easy,22
+INC-0004,test,train,"Ticket via portal: pallet collapsed at dock 7 and paper rolls is spread across the main yard road, trucks can't get in or out.",damaged_goods,urgent,easy,22
+INC-0005,test,test,"Call log: Received SHP-72288 with 26 cartons crushed, books inside look ok but packaging is ruined. Photos attached.",damaged_goods,normal,easy,15
+INC-0006,test,test,"Email from customer: Received SHP-17881 with 32 cartons crushed, auto parts inside look ok but packaging is ruined. Photos attached.",damaged_goods,normal,easy,15
+INC-0007,test,train,"Shift lead: Pallet collapsed at teh Dublin yard and retail clothing is spread across the main yard road, trucks can't get in or out.",damaged_goods,urgent,easy,22
+INC-0008,test,train,"Ops note - Pallet collapsed at Rotterdam DC and toys is spread across the main yard road, trucks can't get in or out.",damaged_goods,urgent,easy,22
+INC-0009,test,train,"WhatsApp from driver: Pallet collapsed at Rotterdam DC and pallets of electronics is spread across teh main yard road, trucks can't get in or out.",damaged_goods,urgent,easy,22
+INC-0010,test,train,"Call log: Received SHP-21754 with 28 cartons crushed, white goods inside look ok but packaging is ruined. Photos attached.",damaged_goods,normal,easy,15
+INC-0011,test,train,"Ops note - Received SHP-58225 with 24 cartons crushed, retail clothing inside look ok but packaging is ruined. Photos attached.",damaged_goods,normal,easy,15
+INC-0012,test,test,"Ticket via portal: Pallet collapsed at the M6 services near Stafford and paper rolls is spread across the main yard road, trucks can't get in or out.",damaged_goods,urgent,easy,22
+INC-0013,test,train,"WhatsApp from driver: Received SHP-22303 with 4 cartons crushed, toys inside look ok but packaging is ruined. Photos attached.",damaged_goods,normal,easy,15
+INC-0014,test,train,Shift lead: Forklift tines punctured 28 cartons of bottled drinks in the racking. Stock quarantined for inspection.,damaged_goods,normal,easy,20
+INC-0015,test,test,"Shift lead: missed our unloading slot at antwerp terminal, rebooked for tomorrow morning. auto parts still on the trailer, all fine.",delivery_delay,normal,easy,1
+INC-0016,test,train,"Ticket via portal: Shipment SHP-29016 for Tailspin Medical is running about 2 hours late due to traffic. Customer informed, new ETA tonight.",delivery_delay,normal,easy,0
+INC-0017,test,val,"Shift lead: Missed our unloading slot at teh Manchester depot, rebooked for tomorrow morning. toys still on the trailer, all fine.",delivery_delay,normal,easy,1
+INC-0018,test,train,"WhatsApp from driver: shipment shp-69425 for acme foods is running about 4 hours late due to traffic. customer informed, new eta tonight.",delivery_delay,normal,easy,0
+INC-0019,test,train,"Shift lead: Shipment SHP-12664 for Initech is running about 5 hours late due to traffic. Customer informed, new ETA tonight.",delivery_delay,normal,easy,0
+INC-0020,test,train,"From the yard: Shipment SHP-75133 for Initech is running about 9 hours late due to traffic. Customer informed, new ETA tonight.",delivery_delay,normal,easy,0
+INC-0021,test,test,"From the yard: Missed our unloading slot at Dock 7, rebooked for tomorrow morning. retail clothing still on the trailer, all fine.",delivery_delay,normal,easy,1
+INC-0022,test,train,"Email from customer: Shipment SHP-40592 for Fabrikam is running about 8 hours late due to traffic. Customer informed, new ETA tonight.",delivery_delay,normal,easy,0
+INC-0023,test,val,"Email from customer: Shipment SHP-98193 for Acme Foods is running about 2 hours late due to traffic. Customer informed, new ETA tonight.",delivery_delay,normal,easy,0
+INC-0024,test,val,"WhatsApp from driver: Trailer jack-knifed ahead, our truck carrying cut flowers is stuck and the cold pack only lasts another hour. Need a rescue vehicle now.",delivery_delay,urgent,easy,8
+INC-0025,test,test,"Email from customer: Trailer jack-knifed ahead, our truck carrying frozen chicken is stuck and the cold pack only lasts another hour. Need a rescue vehicle now.",delivery_delay,urgent,easy,8
+INC-0026,test,train,"Driver report: Trailer jack-knifed ahead, our truck carrying cut flowers is stuck and the cold pack only lasts another hour. Need a rescue vehicle now.",delivery_delay,urgent,easy,8
+INC-0027,test,test,"Ops note - Missed our unloading slot at the Dublin yard, rebooked for tomorrow morning. paper rolls still on the trailer, all fine.",delivery_delay,normal,easy,1
+INC-0028,test,train,"Shift lead: Shipment SHP-79991 for Stark Home is running about 8 hours late due to traffic. Customer informed, new ETA tonight.",delivery_delay,normal,easy,0
+INC-0029,test,train,Email from customer: Border force holding trailer of cut flowers at Dock 7 for missing health certificate. Product spoils in 2 hours.,documentation_customs,urgent,easy,71
+INC-0030,test,test,"Call log: Certificate of origin not attached, preferential duty can't be claimed.",documentation_customs,normal,easy,68
+INC-0031,test,test,Border force holding trailer of blood samples at Coventry DC for missing health certificate. Product spoils in 2 hours.,documentation_customs,urgent,easy,71
+INC-0032,test,test,"Ticket via portal: Certificate of origin not attached, preferential duty can't be claimed.",documentation_customs,normal,easy,68
+INC-0033,test,val,Call log: Border force holding trailer of clinical trial kits at teh Manchester depot for missing health certificate. Product spoils in 2 hours.,documentation_customs,urgent,easy,71
+INC-0034,test,train,"Shift lead: Packing list quantity doesn't match the invoice for Stark Home, please confirm the correct figure.",documentation_customs,normal,easy,65
+INC-0035,test,train,"From the yard: Certificate of origin not attached, preferential duty can't be claimed.",documentation_customs,normal,easy,68
+INC-0036,test,test,"Ops note - Certificate of origin not attached, preferential duty can't be claimed.",documentation_customs,normal,easy,68
+INC-0037,test,train,Border force holding trailer of insulin at the Manchester depot for missing health certificate. Product spoils in 2 hours.,documentation_customs,urgent,easy,71
+INC-0038,test,train,"WhatsApp from driver: Certificate of origin not attached, preferential duty can't be claimed.",documentation_customs,normal,easy,68
+INC-0039,test,train,"Driver report: Certificate of origin not attached, preferential duty can't be claimed.",documentation_customs,normal,easy,68
+INC-0040,test,test,"Certificate of origin not attached, preferential duty can't be claimed.",documentation_customs,normal,easy,68
+INC-0041,test,train,"From the yard: Packing list quantity doesn't match the invoice for Fabrikam, please confirm the correct figure.",documentation_customs,normal,easy,65
+INC-0042,test,train,From the yard: Border force holding trailer of chilled dairy at the Tilbury berth for missing health certificate. Product spoils in 2 hours.,documentation_customs,urgent,easy,71
+INC-0043,test,test,"Call log: looks like 23 boxes of garden tools were stolen from the yard over the weekend, found the fence cut this morning. police report done.",lost_or_stolen,normal,hard,37
+INC-0044,test,train,From the yard: GPS tracker on SHP-89948 (cut flowers) just went dark and the truck is off route by 30km. Driver not answering.,lost_or_stolen,urgent,easy,35
+INC-0045,test,train,From the yard: GPS tracker on SHP-77866 (fresh fish) just went dark and the truck is off route by 30km. Driver not answering.,lost_or_stolen,urgent,easy,35
+INC-0046,test,train,Ops note - 23 cartons missing from the pallet count at Gate 4 at Felixstowe compared to the manifest. Possibly short-shipped.,lost_or_stolen,normal,easy,27
+INC-0047,test,train,Shift lead: GPS tracker on SHP-49808 (fresh fish) just went dark and the truck is off route by 30km. Driver not answering.,lost_or_stolen,urgent,easy,35
+INC-0048,test,val,From the yard: 5 cartons missing from the pallet count at Warehouse B compared to the manifest. Possibly short-shipped.,lost_or_stolen,normal,easy,27
+INC-0049,test,train,"Ticket via portal: Looks like 38 boxes of white goods were stolen from the yard over the weekend, found the fence cut this morning. Police report done.",lost_or_stolen,normal,hard,37
+INC-0050,test,test,Ticket via portal: 36 cartons missing from the pallet count at the Milton Keynes cross-dock compared to the manifest. Possibly short-shipped.,lost_or_stolen,normal,easy,27
+INC-0051,test,test,From the yard: GPS tracker on SHP-75498 (cut flowers) just went dark and the truck is off route by 30km. Driver not answering.,lost_or_stolen,urgent,easy,35
+INC-0052,test,val,Driver report: 23 cartons missing from the pallet count at the Dublin yard compared to the manifest. Possibly short-shipped.,lost_or_stolen,normal,easy,27
+INC-0053,test,val,Ops note - GPS tracker on SHP-56028 (insulin) just went dark and teh truck is off route by 30km. Driver not answering.,lost_or_stolen,urgent,easy,35
+INC-0054,test,train,Driver report: 40 cartons missing from the pallet count at the Manchester depot compared to the manifest. Possibly short-shipped.,lost_or_stolen,normal,easy,27
+INC-0055,test,train,Ticket via portal: GPS tracker on SHP-86843 (chilled dairy) just went dark and the truck is off route by 30km. Driver not answering.,lost_or_stolen,urgent,easy,35
+INC-0056,test,test,Ticket via portal: 35 cartons missing from teh pallet count at Bay 12 compared to the manifest. Possibly short-shipped.,lost_or_stolen,normal,easy,27
+INC-0057,test,train,"Call log: Worker injured at Gate 4 at Felixstowe, forklift ran over his foot. Ambulance called.",safety_incident,urgent,easy,38
+INC-0058,test,train,"Driver collapsed in the cab at Rotterdam DC, first aider with him, not responding well.",safety_incident,urgent,easy,41
+INC-0059,test,val,"Ticket via portal: Worker injured at Hamburg port, forklift ran over his foot. Ambulance called.",safety_incident,urgent,easy,38
+INC-0060,test,train,"Call log: Worker injured at Hamburg port, forklift ran over his foot. Ambulance called.",safety_incident,urgent,easy,38
+INC-0061,test,val,"From the yard: worker injured at gate 4 at felixstowe, forklift ran over his foot. ambulance called.",safety_incident,urgent,easy,38
+INC-0062,test,train,Ops note - Near miss Monday: reversing truck came close to a pedestrian at the Dublin yard. No injury. Suggest a banksman.,safety_incident,normal,easy,45
+INC-0063,test,test,"Shift lead: worker injured at warehouse b, forklift ran over his foot. ambulance called.",safety_incident,urgent,easy,38
+INC-0064,test,train,"Ticket via portal: Driver collapsed in the cab at Gate 4 at Felixstowe, first aider with him, not responding well.",safety_incident,urgent,easy,41
+INC-0065,test,test,Ops note - Near miss Monday: reversing truck came close to a pedestrian at Dock 7. No injury. Suggest a banksman.,safety_incident,normal,easy,45
+INC-0066,test,test,"Shift lead: Driver collapsed in the cab at Dock 7, first aider with him, not responding well.",safety_incident,urgent,easy,41
+INC-0067,test,train,Near miss last week: reversing truck came close to a pedestrian at Antwerp terminal. No injury. Suggest a banksman.,safety_incident,normal,easy,45
+INC-0068,test,train,"Driver report: Driver collapsed in the cab at Leeds hub, first aider with him, not responding well.",safety_incident,urgent,easy,41
+INC-0069,test,test,"Ops note - worker injured at coventry dc, forklift ran over his foot. ambulance called.",safety_incident,urgent,easy,38
+INC-0070,test,train,"Worker injured at Bay 12, forklift ran over his foot. Ambulance called.",safety_incident,urgent,easy,38
+INC-0071,test,train,"Worker injured at Rotterdam DC, forklift ran over his foot. Ambulance called.",safety_incident,urgent,easy,38
+INC-0072,test,train,Email from customer: Near miss yesterday: reversing truck came close to a pedestrian at Warehouse B. No injury. Suggest a banksman.,safety_incident,normal,easy,45
+INC-0073,test,val,"Ticket via portal: Worker injured at the Dublin yard, forklift ran over his foot. Ambulance called.",safety_incident,urgent,easy,38
+INC-0074,test,test,WhatsApp from driver: Near miss Monday: reversing truck came close to a pedestrian at Warehouse B. No injury. Suggest a banksman.,safety_incident,normal,easy,45
+INC-0075,test,test,"Driver report: Worker injured at Bay 12, forklift ran over his foot. Ambulance called.",safety_incident,urgent,easy,38
+INC-0076,test,train,"From the yard: Worker injured at Dock 7, forklift ran over his foot. Ambulance called.",safety_incident,urgent,easy,38
+INC-0077,test,train,"Ops note - artic 40 wont start, its teh spare one, nobody needs it this week.",vehicle_equipment_failure,normal,hard,63
+INC-0078,test,train,"Ops note - trailer TR-221 wont start, its the spare one, nobody needs it this week.",vehicle_equipment_failure,normal,hard,63
+INC-0079,test,train,Email from customer: BROKEN AGAIN!!! dock leveller 5 is a joke. Fix it properly this time!!!,vehicle_equipment_failure,normal,hard,62
+INC-0080,test,test,Call log: BROKEN AGAIN!!! conveyor line 2 is a joke. Fix it properly this time!!!,vehicle_equipment_failure,normal,hard,62
+INC-0081,test,train,Driver report: BROKEN AGAIN!!! conveyor line 2 is a joke. Fix it properly this time!!!,vehicle_equipment_failure,normal,hard,62
+INC-0082,test,val,WhatsApp from driver: BROKEN AGAIN!!! the reefer unit on trailer 9 is a joke. Fix it properly this time!!!,vehicle_equipment_failure,normal,hard,62
+INC-0083,test,val,Driver report: BROKEN AGAIN!!! the reefer unit on trailer 9 is a joke. Fix it properly this time!!!,vehicle_equipment_failure,normal,hard,62
+INC-0084,test,train,"Ticket via portal: Main sorter at Rotterdam DC has stopped completely during peak, 4000 parcels for same-day dispatch stuck.",vehicle_equipment_failure,urgent,easy,60
+INC-0085,test,test,"WhatsApp from driver: Main sorter at Coventry DC has stopped completely during peak, 4000 parcels for same-day dispatch stuck.",vehicle_equipment_failure,urgent,easy,60
+INC-0086,test,train,"van 3 wont start, its the spare one, nobody needs it this week.",vehicle_equipment_failure,normal,hard,63
+INC-0087,test,test,Call log: BROKEN AGAIN!!! the WMS label printer is a joke. Fix it properly this time!!!,vehicle_equipment_failure,normal,hard,62
+INC-0088,test,val,"artic 40 wont start, its the spare one, nobody needs it this week.",vehicle_equipment_failure,normal,hard,63
+INC-0089,test,train,"From the yard: Main sorter at the Tilbury berth has stopped completely during peak, 4000 parcels for same-day dispatch stuck.",vehicle_equipment_failure,urgent,easy,60
+INC-0090,test,train,"Driver report: van 3 wont start, its the spare one, nobody needs it this week.",vehicle_equipment_failure,normal,hard,63
+INC-0091,test,train,"Call log: the tractor unit wont start, its the spare one, nobody needs it this week.",vehicle_equipment_failure,normal,hard,63
+INC-0092,test,train,"Ops note - teh reach truck wont start, its the spare one, nobody needs it this week.",vehicle_equipment_failure,normal,hard,63
+INC-0093,train,test,"Customer Initech reports water damage on 5 boxes of garden tools. Delivered Monday, raising a claim.",damaged_goods,normal,easy,17
+INC-0094,train,test,"Call log: Customer Wayne Hardware reports water damage on 25 boxes of white goods. Delivered Tuesday, raising a claim.",damaged_goods,normal,easy,17
+INC-0095,train,train,Email from customer: DISGUSTING SERVICE. My garden tools arrived smashed to pieces!!! I need this fixed ASAP or I go to the press.,damaged_goods,normal,hard,24
+INC-0096,train,val,"Email from customer: Box of aerosol cans arrived dented but sealed, nothing leaking, checked by the team. Logging for the claim.",damaged_goods,normal,hard,25
+INC-0097,train,train,"From the yard: Rain got into trailer through a roof tear, books wet. Insurance claim needed.",damaged_goods,normal,easy,21
+INC-0098,train,train,Ticket via portal: disgusting service. my printer cartridges arrived smashed to pieces!!! i need this fixed asap or i go to the press.,damaged_goods,normal,hard,24
+INC-0099,train,test,"Call log: Pallet of retail clothing dropped during unloading at the M6 services near Stafford, about 39 units broken. No one hurt.",damaged_goods,normal,easy,16
+INC-0100,train,train,"From the yard: Crate of glass fell off teh trailer onto lane 2 of the access road, road blocked, police asking for us to clear it now.",damaged_goods,urgent,easy,23
+INC-0101,train,train,"Rain got into trailer through a roof tear, books wet. Insurance claim needed.",damaged_goods,normal,easy,21
+INC-0102,train,train,"Driver report: Box of diesel arrived dented but sealed, nothing leaking, checked by the team. Logging for the claim.",damaged_goods,normal,hard,25
+INC-0103,train,train,"Rain got into trailer through a roof tear, furniture wet. Insurance claim needed.",damaged_goods,normal,easy,21
+INC-0104,train,train,"Ops note - Customer Northwind reports water damage on 39 boxes of garden tools. Delivered last week, raising a claim.",damaged_goods,normal,easy,17
+INC-0105,train,train,"Driver report: Pallet of white goods dropped during unloading at Bay 12, about 23 units broken. No one hurt.",damaged_goods,normal,easy,16
+INC-0106,train,val,"From the yard: Item arrived scratched, the box was clearly mishandled. Want a refund for SHP-29996.",damaged_goods,normal,easy,19
+INC-0107,train,test,"Ticket via portal: Customer Fabrikam reports water damage on 34 boxes of printer cartridges. Delivered Monday, raising a claim.",damaged_goods,normal,easy,17
+INC-0108,train,train,"Email from customer: Customer Globex reports water damage on 2 boxes of retail clothing. Delivered Monday, raising a claim.",damaged_goods,normal,easy,17
+INC-0109,train,test,"Driver report: Box of aerosol cans arrived dented but sealed, nothing leaking, checked by the team. Logging for the claim.",damaged_goods,normal,hard,25
+INC-0110,train,test,WhatsApp from driver: DISGUSTING SERVICE. My pallets of electronics arrived smashed to pieces!!! I need this fixed ASAP or I go to the press.,damaged_goods,normal,hard,24
+INC-0111,train,train,"Ticket via portal: Box of aerosol cans arrived dented but sealed, nothing leaking, checked by the team. Logging for the claim.",damaged_goods,normal,hard,25
+INC-0112,train,train,"Ticket via portal: Rain got into trailer through a roof tear, white goods wet. Insurance claim needed.",damaged_goods,normal,easy,21
+INC-0113,train,train,DISGUSTING SERVICE. My white goods arrived smashed to pieces!!! I need this fixed ASAP or I go to the press.,damaged_goods,normal,hard,24
+INC-0114,train,train,"Email from customer: Customer Acme Foods reports water damage on 24 boxes of furniture. Delivered yesterday, raising a claim.",damaged_goods,normal,easy,17
+INC-0115,train,train,"Ops note - Pallet of garden tools dropped during unloading at Leeds hub, about 23 units broken. No one hurt.",damaged_goods,normal,easy,16
+INC-0116,train,train,"Ticket via portal: Item arrived scratched, the box was clearly mishandled. Want a refund for SHP-14751.",damaged_goods,normal,easy,19
+INC-0117,train,val,"From the yard: Crate of glass fell off the trailer onto lane 2 of the access road, road blocked, police asking for us to clear it now.",damaged_goods,urgent,easy,23
+INC-0118,train,train,"WhatsApp from driver: Rain got into trailer through a roof tear, printer cartridges wet. Insurance claim needed.",damaged_goods,normal,easy,21
+INC-0119,train,val,"WhatsApp from driver: Box of lithium batteries arrived dented but sealed, nothing leaking, checked by the team. Logging for the claim.",damaged_goods,normal,hard,25
+INC-0120,train,train,"Ticket via portal: Rain got into trailer through a roof tear, garden tools wet. Insurance claim needed.",damaged_goods,normal,easy,21
+INC-0121,train,train,"Driver report: Crate of glass fell off the trailer onto lane 2 of the access road, road blocked, police asking for us to clear it now.",damaged_goods,urgent,easy,23
+INC-0122,train,train,"Ticket via portal: item arrived scratched, the box was clearly mishandled. want a refund for shp-25397.",damaged_goods,normal,easy,19
+INC-0123,train,test,Ops note - DISGUSTING SERVICE. My auto parts arrived smashed to pieces!!! I need this fixed ASAP or I go to the press.,damaged_goods,normal,hard,24
+INC-0124,train,test,"From the yard: Customer Contoso Retail reports water damage on 26 boxes of retail clothing. Delivered yesterday, raising a claim.",damaged_goods,normal,easy,17
+INC-0125,train,test,"Ticket via portal: Crate of glass fell off the trailer onto lane 2 of the access road, road blocked, police asking for us to clear it now.",damaged_goods,urgent,easy,23
+INC-0126,train,val,"ferry cancelled, trailer with retail clothing will cross on the next sailing. eta slips by 3 hours.",delivery_delay,normal,easy,5
+INC-0127,train,test,"Driver report: Small thing, but the fresh fish for Acme Foods hasn't left the Tilbury berth yet and it must be with the clinic by 14:00. It's 13:10.",delivery_delay,urgent,hard,13
+INC-0128,train,train,"Email from customer: Delivery to Northwind pushed to last week because the consignee closed early. No damage, just need a new slot.",delivery_delay,normal,easy,2
+INC-0129,train,test,"From the yard: Ferry cancelled, trailer with bottled drinks will cross on the next sailing. ETA slips by 2 hours.",delivery_delay,normal,easy,5
+INC-0130,train,train,"From the yard: URGENT URGENT - customer Fabrikam chasing ETA on SHP-52525 again, they are very annoyed. Delivery due Tuesday, just slow.",delivery_delay,normal,hard,11
+INC-0131,train,train,"Email from customer: Queue at Hamburg port is long, driver waiting 2h. Load is bottled drinks, not time critical.",delivery_delay,normal,easy,3
+INC-0132,train,train,From the yard: THIS IS UNACCEPTABLE!!! Third time SHP-32030 is late. I want a call TODAY from a manager!!!,delivery_delay,normal,hard,10
+INC-0133,train,train,"From the yard: insulin for stark home stuck in traffic, delivery window closes in 45 minutes and teh hospital has no stock left.",delivery_delay,urgent,easy,7
+INC-0134,train,train,"Ticket via portal: Delivery to Contoso Retail pushed to Monday because the consignee closed early. No damage, just need a new slot.",delivery_delay,normal,easy,2
+INC-0135,train,train,"From the yard: Small thing, but the cut flowers for Fabrikam hasn't left the Dublin yard yet and it must be with the clinic by 14:00. It's 13:10.",delivery_delay,urgent,hard,13
+INC-0136,train,train,"WhatsApp from driver: Small thing, but the fresh fish for Northwind hasn't left the Milton Keynes cross-dock yet and it must be with the clinic by 14:00. It's 13:10.",delivery_delay,urgent,hard,13
+INC-0137,train,train,"Ticket via portal: Delivery to Stark Home pushed to last week because the consignee closed early. No damage, just need a new slot.",delivery_delay,normal,easy,2
+INC-0138,train,val,"Ops note - Small thing, but the blood samples for Tailspin Medical hasn't left Antwerp terminal yet and it must be with the clinic by 14:00. It's 13:10.",delivery_delay,urgent,hard,13
+INC-0139,train,test,"Call log: Ferry cancelled, trailer with paper rolls will cross on the next sailing. ETA slips by 9 hours.",delivery_delay,normal,easy,5
+INC-0140,train,test,"Ops note - URGENT URGENT - customer Tailspin Medical chasing ETA on SHP-62303 again, they are very annoyed. Delivery due Friday, just slow.",delivery_delay,normal,hard,11
+INC-0141,train,val,"Call log: Delivery to Acme Foods pushed to last week because the consignee closed early. No damage, just need a new slot.",delivery_delay,normal,easy,2
+INC-0142,train,val,Call log: fyi load SHP-88286 is at the Manchester depot still. It's the insulin order that the patient needs this afternoon.,delivery_delay,urgent,hard,14
+INC-0143,train,train,"URGENT URGENT - customer Tailspin Medical chasing ETA on SHP-62815 again, they are very annoyed. Delivery due Monday, just slow.",delivery_delay,normal,hard,11
+INC-0144,train,train,Shift lead: THIS IS UNACCEPTABLE!!! Third time SHP-31649 is late. I want a call TODAY from a manager!!!,delivery_delay,normal,hard,10
+INC-0145,train,train,"WhatsApp from driver: Queue at the M6 services near Stafford is long, driver waiting 6h. Load is books, not time critical.",delivery_delay,normal,easy,3
+INC-0146,train,val,"Ticket via portal: URGENT URGENT - customer Tailspin Medical chasing ETA on SHP-85690 again, they are very annoyed. Delivery due Friday, just slow.",delivery_delay,normal,hard,11
+INC-0147,train,test,"Ops note - Queue at the M6 services near Stafford is long, driver waiting 2h. Load is paper rolls, not time critical.",delivery_delay,normal,easy,3
+INC-0148,train,val,"Shift lead: Queue at the Manchester depot is long, driver waiting 6h. Load is furniture, not time critical.",delivery_delay,normal,easy,3
+INC-0149,train,train,From the yard: fyi load SHP-99352 is at the Manchester depot still. It's the insulin order that the patient needs this afternoon.,delivery_delay,urgent,hard,14
+INC-0150,train,train,"Email from customer: Small thing, but the insulin for Stark Home hasn't left the Dublin yard yet and it must be with the clinic by 14:00. It's 13:10.",delivery_delay,urgent,hard,13
+INC-0151,train,train,fyi load shp-88554 is at the manchester depot still. it's the chilled dairy order that the patient needs this afternoon.,delivery_delay,urgent,hard,14
+INC-0152,train,test,"Email from customer: Ferry cancelled, trailer with printer cartridges will cross on the next sailing. ETA slips by 6 hours.",delivery_delay,normal,easy,5
+INC-0153,train,test,"Shift lead: Queue at Antwerp terminal is long, driver waiting 5h. Load is furniture, not time critical.",delivery_delay,normal,easy,3
+INC-0154,train,train,"Ticket via portal: URGENT URGENT - customer Acme Foods chasing ETA on SHP-75743 again, they are very annoyed. Delivery due Monday, just slow.",delivery_delay,normal,hard,11
+INC-0155,train,test,"Email from customer: Initech asked to postpone delivey of SHP-34426 to next week, need to rebook the carrier.",delivery_delay,normal,easy,6
+INC-0156,train,train,"Queue at Gate 4 at Felixstowe is long, driver waiting 5h. Load is bottled drinks, not time critical.",delivery_delay,normal,easy,3
+INC-0157,train,test,"blood samples for Umbrella Pharma stuck in traffic, delivery window closes in 30 minutes and the hospital has no stock left.",delivery_delay,urgent,easy,7
+INC-0158,train,train,"Ops note - Umbrella Pharma asked to postpone delivery of SHP-21591 to next week, need to rebook the carrier.",delivery_delay,normal,easy,6
+INC-0159,train,train,"Shift lead: Fabrikam asked to postpone delivery of SHP-19183 to next week, need to rebook teh carrier.",delivery_delay,normal,easy,6
+INC-0160,train,train,"Ops note - Small thing, but the vaccines for Stark Home hasn't left the Tilbury berth yet and it must be with the clinic by 14:00. It's 13:10.",delivery_delay,urgent,hard,13
+INC-0161,train,test,"Call log: Small thing, but the chilled dairy for Initech hasn't left Leeds hub yet and it must be with the clinic by 14:00. It's 13:10.",delivery_delay,urgent,hard,13
+INC-0162,train,train,From the yard: THIS IS UNACCEPTABLE!!! Third time SHP-94765 is late. I want a call TODAY from a manager!!!,delivery_delay,normal,hard,10
+INC-0163,train,train,"Ops note - Small thing, but teh insulin for Initech hasn't left Leeds hub yet and it must be with the clinic by 14:00. It's 13:10.",delivery_delay,urgent,hard,13
+INC-0164,train,train,"WhatsApp from driver: Ferry cancelled, trailer with garden tools will cross on the next sailing. ETA slips by 3 hours.",delivery_delay,normal,easy,5
+INC-0165,train,test,WhatsApp from driver: fyi load SHP-50428 is at the Dublin yard still. It's the chilled dairy order that the patient needs this afternoon.,delivery_delay,urgent,hard,14
+INC-0166,train,test,"From the yard: Driver at Coventry DC without ADR documents for aerosol cans, police have stopped the truck on the roadside and will impound it.",documentation_customs,urgent,easy,72
+INC-0167,train,train,From the yard: Need ADR paperwork updated for diesel before the yesterday shipment.,documentation_customs,normal,easy,70
+INC-0168,train,train,"Driver at the M6 services near Stafford without ADR documents for battery acid, police have stopped the truck on the roadside and will impound it.",documentation_customs,urgent,easy,72
+INC-0169,train,train,"Shift lead: ASAP!!! Invoice for SHP-21126 is wrong, we were overcharged. Fix it!!!",documentation_customs,normal,hard,73
+INC-0170,train,train,"Shift lead: Labels printed with teh wrong barcode on 32 cartons, relabelling at Leeds hub.",documentation_customs,normal,easy,69
+INC-0171,train,val,"From the yard: Labels printed with the wrong barcode on 34 cartons, relabelling at Rotterdam DC.",documentation_customs,normal,easy,69
+INC-0172,train,train,"From the yard: Driver at Hamburg port without ADR documents for aerosol cans, police have stopped the truck on the roadside and will impound it.",documentation_customs,urgent,easy,72
+INC-0173,train,train,"Ticket via portal: Delivery note for Northwind has the wrong address, goods delivered correctly though.",documentation_customs,normal,easy,67
+INC-0174,train,train,"Shift lead: Delivery note for Tailspin Medical has the wrong address, goods delivered correctly though.",documentation_customs,normal,easy,67
+INC-0175,train,test,"Driver report: Delivery note for Acme Foods has the wrong address, goods delivered correctly though.",documentation_customs,normal,easy,67
+INC-0176,train,train,"Email from customer: driver at hamburg port without adr documents for diesel, police have stopped the truck on the roadside and will impound it.",documentation_customs,urgent,easy,72
+INC-0177,train,train,"Ops note - Customs hold on SHP-47555 at Gate 4 at Felixstowe, missing commercial invoice. Broker asking for a copy.",documentation_customs,normal,easy,64
+INC-0178,train,train,"Shift lead: ASAP!!! Invoice for SHP-93871 is wrong, we were overcharged. Fix it!!!",documentation_customs,normal,hard,73
+INC-0179,train,train,"Ticket via portal: labels printed with the wrong barcode on 29 cartons, relabelling at the m6 services near stafford.",documentation_customs,normal,easy,69
+INC-0180,train,test,"Shift lead: labels printed with the wrong barcode on 10 cartons, relabelling at antwerp terminal.",documentation_customs,normal,easy,69
+INC-0181,train,val,"WhatsApp from driver: Delivery note for Contoso Retail has the wrong address, goods delivered correctly though.",documentation_customs,normal,easy,67
+INC-0182,train,train,"Ops note - Customs hold on SHP-11383 at Warehouse B, missing commercial invoice. Broker asking for a copy.",documentation_customs,normal,easy,64
+INC-0183,train,train,Ticket via portal: Need ADR paperwork updated for chlorine tablets before the last week shipment.,documentation_customs,normal,easy,70
+INC-0184,train,train,"Shift lead: Labels printed with the wrong barcode on 18 cartons, relabelling at Coventry DC.",documentation_customs,normal,easy,69
+INC-0185,train,test,Ops note - Need ADR paperwork updated for diesel before the Monday shipment.,documentation_customs,normal,easy,70
+INC-0186,train,train,"Shift lead: Labels printed with the wrong barcode on 36 cartons, relabelling at Leeds hub.",documentation_customs,normal,easy,69
+INC-0187,train,val,"Ops note - Customs hold on SHP-73435 at the Milton Keynes cross-dock, missing commercial invoice. Broker asking for a copy.",documentation_customs,normal,easy,64
+INC-0188,train,train,"ASAP!!! Invoice for SHP-48598 is wrong, we were overcharged. Fix it!!!",documentation_customs,normal,hard,73
+INC-0189,train,val,"Ops note - Delivery note for Tailspin Medical has the wrong address, goods delivered correctly though.",documentation_customs,normal,easy,67
+INC-0190,train,val,Email from customer: Need ADR paperwork updated for diesel before the Friday shipment.,documentation_customs,normal,easy,70
+INC-0191,train,train,"Driver report: Delivery note for Initech has teh wrong address, goods delivered correctly though.",documentation_customs,normal,easy,67
+INC-0192,train,train,Shift lead: Need ADR paperwork updated for paint thinner before the Tuesday shipment.,documentation_customs,normal,easy,70
+INC-0193,train,test,"From the yard: Labels printed with the wrong barcode on 2 cartons, relabelling at the M6 services near Stafford.",documentation_customs,normal,easy,69
+INC-0194,train,val,Shift lead: Parcel not scanned since leaving the M6 services near Stafford yesterday. Trace requested.,lost_or_stolen,normal,easy,28
+INC-0195,train,train,"Shift lead: truck van 3 with full load of bottled drinks has been taken from the lay-by at bay 12, tracker shows it moving now.",lost_or_stolen,urgent,easy,33
+INC-0196,train,test,"Shift lead: Wrong pallet delivered to Initech, their books must have gone to another address.",lost_or_stolen,normal,easy,29
+INC-0197,train,train,"Driver report: Wrong pallet delivered to Acme Foods, their printer cartridges must have gone to another address.",lost_or_stolen,normal,easy,29
+INC-0198,train,train,Shift lead: parcel not scanned since leaving antwerp terminal friday. trace requested.,lost_or_stolen,normal,easy,28
+INC-0199,train,train,"Ticket via portal: Wrong pallet delivered to Northwind, their garden tools must have gone to another address.",lost_or_stolen,normal,easy,29
+INC-0200,train,train,"Call log: Wrong pallet delivered to Wayne Hardware, their garden tools must have gone to another address.",lost_or_stolen,normal,easy,29
+INC-0201,train,train,Shift lead: Parcel not scanned since leaving the Milton Keynes cross-dock yesterday. Trace requested.,lost_or_stolen,normal,easy,28
+INC-0202,train,train,"Shift lead: Truck unit 88 with full load of bottled drinks has been taken from the lay-by at Hamburg port, tracker shows it moving now.",lost_or_stolen,urgent,easy,33
+INC-0203,train,train,"WhatsApp from driver: Customer says package left at the wrong house, neighbours don't have it.",lost_or_stolen,normal,easy,31
+INC-0204,train,train,"WhatsApp from driver: Wrong pallet delivered to Contoso Retail, their pallets of electronics must have gone to another address.",lost_or_stolen,normal,easy,29
+INC-0205,train,train,Driver report: Pallet missing!!! Where is my stuff?!?! SHP-34687 was due last week. Answer me!!,lost_or_stolen,normal,hard,36
+INC-0206,train,val,"break-in at warehouse b happening, alarm going off and two people seen loading white goods into a van.",lost_or_stolen,urgent,easy,34
+INC-0207,train,train,"Ticket via portal: truck the reach truck with full load of furniture has been taken from the lay-by at antwerp terminal, tracker shows it moving now.",lost_or_stolen,urgent,easy,33
+INC-0208,train,test,"WhatsApp from driver: Break-in at Warehouse B happening, alarm going off and two people seen loading bottled drinks into a van.",lost_or_stolen,urgent,easy,34
+INC-0209,train,train,Driver report: shp-92075 shows delivered but globex says nothing arrived. need proof of delivery checked.,lost_or_stolen,normal,easy,26
+INC-0210,train,train,"Break-in at Warehouse B happening, alarm going off and two people seen loading white goods into a van.",lost_or_stolen,urgent,easy,34
+INC-0211,train,train,"Email from customer: break-in at warehouse b happening, alarm going off and two people seen loading bottled drinks into a van.",lost_or_stolen,urgent,easy,34
+INC-0212,train,train,From the yard: Pallet missing!!! Where is my stuff?!?! SHP-93782 was due Monday. Answer me!!,lost_or_stolen,normal,hard,36
+INC-0213,train,test,Email from customer: Parcel not scanned since leaving Gate 4 at Felixstowe Tuesday. Trace requested.,lost_or_stolen,normal,easy,28
+INC-0214,train,val,"Ops note - Customer says package left at the wrong house, neighbours don't have it.",lost_or_stolen,normal,easy,31
+INC-0215,train,test,"From the yard: Break-in at Warehouse B happening, alarm going off and two people seen loading books into a van.",lost_or_stolen,urgent,easy,34
+INC-0216,train,test,Call log: Parcel not scanned since leaving the Tilbury berth Friday. Trace requested.,lost_or_stolen,normal,easy,28
+INC-0217,train,train,Call log: SHP-15148 shows delivered but Globex says nothing arrived. Need proof of delivery checked.,lost_or_stolen,normal,easy,26
+INC-0218,train,test,Shift lead: Pallet missing!!! Where is my stuff?!?! SHP-66150 was due Tuesday. Answer me!!,lost_or_stolen,normal,hard,36
+INC-0219,train,train,"Ticket via portal: Break-in at Warehouse B happening, alarm going off and two people seen loading toys into a van.",lost_or_stolen,urgent,easy,34
+INC-0220,train,val,"Email from customer: Truck forklift F2 with full load of furniture has been taken from the lay-by at Rotterdam DC, tracker shows it moving now.",lost_or_stolen,urgent,easy,33
+INC-0221,train,val,"Email from customer: Wrong pallet delivered to Umbrella Pharma, their pallets of electronics must have gone to another address.",lost_or_stolen,normal,easy,29
+INC-0222,train,train,"From the yard: Customer says package left at the wrong house, neighbours don't have it.",lost_or_stolen,normal,easy,31
+INC-0223,train,val,"Ticket via portal: colleague fell from the loading dock edge, bleeding from the head.",safety_incident,urgent,easy,44
+INC-0224,train,val,"Ticket via portal: Leak of lithium batteries from a damaged drum on Dock 7, strong smell, staff evacuated.",safety_incident,urgent,easy,39
+INC-0225,train,train,"From the yard: Fire extinguisher at Bay 12 expired last month, needs replacing.",safety_incident,normal,easy,48
+INC-0226,train,train,"Ops note - Spill of battery acid on the motorway hard shoulder from our trailer, highways agency on scene.",safety_incident,urgent,easy,43
+INC-0227,train,train,"Call log: Spill of lithium batteries on the motorway hard shoulder from our trailer, highways agency on scene.",safety_incident,urgent,easy,43
+INC-0228,train,train,"Call log: Colleague fell from the loading dock edge, bleeding from the head.",safety_incident,urgent,easy,44
+INC-0229,train,train,"Racking at the M6 services near Stafford is leaning badly after a truck hit it, area not yet cordoned and people still picking.",safety_incident,urgent,easy,42
+INC-0230,train,train,"Driver report: Colleague fell from the loading dock edge, bleeding from the head.",safety_incident,urgent,easy,44
+INC-0231,train,test,"WhatsApp from driver: Damaged boxes of battery acid received, one is smoking slightly. Have put it outside.",safety_incident,urgent,hard,51
+INC-0232,train,train,"Ticket via portal: Racking at Warehouse B is leaning badly after a truck hit it, area not yet cordoned and people still picking.",safety_incident,urgent,easy,42
+INC-0233,train,train,"Call log: leak of aerosol cans from a damaged drum on dock 7, strong smell, staff evacuated.",safety_incident,urgent,easy,39
+INC-0234,train,train,"Fire extinguisher at Bay 12 expired last month, needs replacing.",safety_incident,normal,easy,48
+INC-0235,train,train,"Ticket via portal: fire extinguisher at bay 12 expired last month, needs replacing.",safety_incident,normal,easy,48
+INC-0236,train,train,"Damaged boxes of aerosol cans received, one is smoking slightly. Have put it outside.",safety_incident,urgent,hard,51
+INC-0237,train,train,"From the yard: Leak of aerosol cans from a damaged drum on Dock 7, strong smell, staff evacuated.",safety_incident,urgent,easy,39
+INC-0238,train,train,"WhatsApp from driver: Truck truck 14 has failed brakes and rolled into the gatehouse, the guard is trapped inside.",safety_incident,urgent,hard,52
+INC-0239,train,train,"WhatsApp from driver: Leak of battery acid from a damaged drum on Dock 7, strong smell, staff evacuated.",safety_incident,urgent,easy,39
+INC-0240,train,val,"Ops note - Truck forklift F2 has failed brakes and rolled into the gatehouse, the guard is trapped inside.",safety_incident,urgent,hard,52
+INC-0241,train,train,"WhatsApp from driver: Colleague fell from the loading dock edge, bleeding from the head.",safety_incident,urgent,easy,44
+INC-0242,train,train,"Driver report: truck truck 14 has failed brakes and rolled into the gatehouse, the guard is trapped inside.",safety_incident,urgent,hard,52
+INC-0243,train,train,"Colleague fell from teh loading dock edge, bleeding from the head.",safety_incident,urgent,easy,44
+INC-0244,train,train,"Call log: Racking at Rotterdam DC is leaning badly after a truck hit it, area not yet cordoned and people still picking.",safety_incident,urgent,easy,42
+INC-0245,train,train,From the yard: Toolbox talk follow-up: hi-vis compliance was poor on night shift last week.,safety_incident,normal,easy,46
+INC-0246,train,test,"Ticket via portal: Damaged boxes of battery acid received, one is smoking slightly. Have put it outside.",safety_incident,urgent,hard,51
+INC-0247,train,val,Toolbox talk follow-up: hi-vis compliance was poor on night shift last week.,safety_incident,normal,easy,46
+INC-0248,train,test,"Leak of diesel from a damaged drum on Dock 7, strong smell, staff evacuated.",safety_incident,urgent,easy,39
+INC-0249,train,train,"Call log: Leak of chlorine tablets from a damaged drum on Dock 7, strong smell, staff evacuated.",safety_incident,urgent,easy,39
+INC-0250,train,test,"Ticket via portal: minor cut to a picker's finger from a box cutter yesterday, plaster applied, back at work. logging per policy.",safety_incident,normal,easy,47
+INC-0251,train,val,"Call log: Fire extinguisher at Bay 12 expired last month, needs replacing.",safety_incident,normal,easy,48
+INC-0252,train,test,"Driver report: Fire extinguisher at Bay 12 expired last month, needs replacing.",safety_incident,normal,easy,48
+INC-0253,train,train,"Ticket via portal: Colleague fell from the loading dock edge, bleeding from the head.",safety_incident,urgent,easy,44
+INC-0254,train,train,"Driver report: Truck the tractor unit has failed brakes and rolled into the gatehouse, the guard is trapped inside.",safety_incident,urgent,hard,52
+INC-0255,train,val,"Call log: Leak of paint thinner from a damaged drum on Dock 7, strong smell, staff evacuated.",safety_incident,urgent,easy,39
+INC-0256,train,train,"Ops note - Fire extinguisher at Bay 12 expired last month, needs replacing.",safety_incident,normal,easy,48
+INC-0257,train,train,"WhatsApp from driver: damaged boxes of diesel received, one is smoking slightly. have put it outside.",safety_incident,urgent,hard,51
+INC-0258,train,train,Shift lead: Toolbox talk follow-up: hi-vis compliance was poor on night shift last week.,safety_incident,normal,easy,46
+INC-0259,train,train,"Driver report: Truck truck 14 has failed brakes and rolled into the gatehouse, the guard is trapped inside.",safety_incident,urgent,hard,52
+INC-0260,train,train,"Call log: Minor cut to a picker's finger from a box cutter Friday, plaster applied, back at work. Logging per policy.",safety_incident,normal,easy,47
+INC-0261,train,train,"Truck the reach truck has failed brakes and rolled into the gatehouse, the guard is trapped inside.",safety_incident,urgent,hard,52
+INC-0262,train,test,Ops note - Toolbox talk follow-up: hi-vis compliance was poor on night shift last week.,safety_incident,normal,easy,46
+INC-0263,train,val,"WhatsApp from driver: colleague fell from the loading dock edge, bleeding from the head.",safety_incident,urgent,easy,44
+INC-0264,train,train,"Damaged boxes of chlorine tablets received, one is smoking slightly. Have put it outside.",safety_incident,urgent,hard,51
+INC-0265,train,test,"Driver report: Damaged boxes of paint thinner received, one is smoking slightly. Have put it outside.",safety_incident,urgent,hard,51
+INC-0266,train,test,"Ops note - Truck truck 14 has failed brakes and rolled into the gatehouse, the guard is trapped inside.",safety_incident,urgent,hard,52
+INC-0267,train,test,"Email from customer: Damaged boxes of paint thinner received, one is smoking slightly. Have put it outside.",safety_incident,urgent,hard,51
+INC-0268,train,test,WhatsApp from driver: Toolbox talk follow-up: hi-vis compliance was poor on night shift last week.,safety_incident,normal,easy,46
+INC-0269,train,test,"WhatsApp from driver: Racking at Antwerp terminal is leaning badly after a truck hit it, area not yet cordoned and people still picking.",safety_incident,urgent,easy,42
+INC-0270,train,val,"Email from customer: Truck van 3 has failed brakes and rolled into the gatehouse, the guard is trapped inside.",safety_incident,urgent,hard,52
+INC-0271,train,val,"Call log: Damaged boxes of battery acid received, one is smoking slightly. Have put it outside.",safety_incident,urgent,hard,51
+INC-0272,train,train,"Ops note - leak of paint thinner from a damaged drum on dock 7, strong smell, staff evacuated.",safety_incident,urgent,easy,39
+INC-0273,train,test,"Call log: spill of paint thinner on the motorway hard shoulder from our trailer, highways agency on scene.",safety_incident,urgent,easy,43
+INC-0274,train,train,Ticket via portal: Toolbox talk follow-up: hi-vis compliance was poor on night shift last week.,safety_incident,normal,easy,46
+INC-0275,train,test,"From the yard: Truck the reach truck has failed brakes and rolled into the gatehouse, the guard is trapped inside.",safety_incident,urgent,hard,52
+INC-0276,train,train,"Ticket via portal: Minor cut to a picker's finger from a box cutter last week, plaster applied, back at work. Logging per policy.",safety_incident,normal,easy,47
+INC-0277,train,train,"Damaged boxes of diesel recieved, one is smoking slightly. Have put it outside.",safety_incident,urgent,hard,51
+INC-0278,train,train,"Ops note - the WMS label printer keeps jamming every hour or so, maintenance ticket raised.",vehicle_equipment_failure,normal,easy,57
+INC-0279,train,test,"Ticket via portal: Tail lift on van 3 is slow to lower, still usable, please schedule a service.",vehicle_equipment_failure,normal,easy,56
+INC-0280,train,test,"Reefer unit on trailer 9 died, trailer full of vaccines, temp already rising. Need a replacement trailer.",vehicle_equipment_failure,urgent,easy,61
+INC-0281,train,train,"Driver report: Warning light on the dashboard of artic 40, booked into the workshop last week.",vehicle_equipment_failure,normal,easy,55
+INC-0282,train,train,"Warning light on the dashboard of trailer TR-221, booked into the workshop yesterday.",vehicle_equipment_failure,normal,easy,55
+INC-0283,train,train,"WhatsApp from driver: Reefer unit on trailer 9 died, trailer full of fresh fish, temp already rising. Need a replacement trailer.",vehicle_equipment_failure,urgent,easy,61
+INC-0284,train,train,"WhatsApp from driver: Tail lift on van 3 is slow to lower, still usable, please schedule a service.",vehicle_equipment_failure,normal,easy,56
+INC-0285,train,train,"Driver report: Reefer unit on trailer 9 died, trailer full of vaccines, temp already rising. Need a replacement trailer.",vehicle_equipment_failure,urgent,easy,61
+INC-0286,train,test,"Ops note - warning light on the dashboard of trailer tr-221, booked into the workshop yesterday.",vehicle_equipment_failure,normal,easy,55
+INC-0287,train,test,"Ticket via portal: Warning light on the dashboard of the tractor unit, booked into the workshop Tuesday.",vehicle_equipment_failure,normal,easy,55
+INC-0288,train,train,"Email from customer: van 3 has a flat tyre at Warehouse B, recovery booked, load can wait until tomorrow.",vehicle_equipment_failure,normal,easy,53
+INC-0289,train,train,"Driver report: Tail lift on van 3 is slow to lower, still usable, please schedule a service.",vehicle_equipment_failure,normal,easy,56
+INC-0290,train,test,"From the yard: trailer TR-221 has a flat tyre at the M6 services near Stafford, recovery booked, load can wait until tomorrow.",vehicle_equipment_failure,normal,easy,53
+INC-0291,train,test,"tail lift on van 3 is slow to lower, still usable, please schedule a service.",vehicle_equipment_failure,normal,easy,56
+INC-0292,train,train,"Warning light on the dashboard of unit 88, booked into the workshop Tuesday.",vehicle_equipment_failure,normal,easy,55
+INC-0293,train,train,"Email from customer: Reefer unit on trailer 9 died, trailer full of frozen chicken, temp already rising. Need a replacement trailer.",vehicle_equipment_failure,urgent,easy,61
+INC-0294,train,train,"Ops note - Tail lift on van 3 is slow to lower, still usable, please schedule a service.",vehicle_equipment_failure,normal,easy,56
+INC-0295,train,train,"Call log: the wms label printer keeps jamming every hour or so, maintenance ticket raised.",vehicle_equipment_failure,normal,easy,57
+INC-0296,train,val,"Shift lead: Tail lift on van 3 is slow to lower, still usable, please schedule a service.",vehicle_equipment_failure,normal,easy,56
+INC-0297,train,val,"WhatsApp from driver: Reefer unit on trailer 9 died, trailer full of clinical trial kits, temp already rising. Need a replacement trailer.",vehicle_equipment_failure,urgent,easy,61
+INC-0298,train,val,"Ops note - tail lift on van 3 is slow to lower, still usable, please schedule a service.",vehicle_equipment_failure,normal,easy,56
+INC-0299,train,train,"Shift lead: Warning light on the dashboard of van 3, booked into the workshop yesterday.",vehicle_equipment_failure,normal,easy,55
+INC-0300,train,train,"Ops note - AdBlue fault on artic 40, limp mode, driver heading back to depot at low speed.",vehicle_equipment_failure,normal,easy,58
+INC-0301,val,train,"Shift lead: Shrink wrap torn and two layers of retail clothing have shifted, some dents. Accepted with remarks.",damaged_goods,normal,easy,18
+INC-0302,val,val,"Ops note - Shrink wrap torn and two layers of furniture have shifted, some dents. Accepted with remarks.",damaged_goods,normal,easy,18
+INC-0303,val,train,"WhatsApp from driver: Shrink wrap torn and two layers of retail clothing have shifted, some dents. Accepted with remarks.",damaged_goods,normal,easy,18
+INC-0304,val,val,"Ticket via portal: Shrink wrap torn and two layers of retail clothing have shifted, some dents. Accepted with remarks.",damaged_goods,normal,easy,18
+INC-0305,val,train,Shift lead: Escalating!! Our books delivery was 2 hours late and the driver was rude. Please sort this out.,delivery_delay,normal,hard,12
+INC-0306,val,train,Escalating!! Our toys delivery was 2 hours late and the driver was rude. Please sort this out.,delivery_delay,normal,hard,12
+INC-0307,val,train,Call log: Same-day insulin run for Northwind is 3 hours behind and the surgery is scheduled for this afternoon. Need a courier option now.,delivery_delay,urgent,easy,9
+INC-0308,val,train,"Hi, my order SHP-91729 was meant to arrive Monday and hasn't come. Can someone give me an update please?",delivery_delay,normal,easy,4
+INC-0309,val,train,"hi, my order shp-18493 was meant to arrive friday and hasn't come. can someone give me an update please?",delivery_delay,normal,easy,4
+INC-0310,val,train,"Hi, my order SHP-17646 was meant to arrive Friday and hasn't come. Can someone give me an update please?",delivery_delay,normal,easy,4
+INC-0311,val,train,WhatsApp from driver: Same-day fresh fish run for Fabrikam is 3 hours behind and the surgery is scheduled for this afternoon. Need a courier option now.,delivery_delay,urgent,easy,9
+INC-0312,val,train,"Call log: Hi, my order SHP-27771 was meant to arrive Friday and hasn't come. Can someone give me an update please?",delivery_delay,normal,easy,4
+INC-0313,val,test,Shift lead: Escalating!! Our bottled drinks delivery was 2 hours late and the driver was rude. Please sort this out.,delivery_delay,normal,hard,12
+INC-0314,val,train,Ticket via portal: Same-day vaccines run for Initech is 3 hours behind and the surgery is scheduled for this afternoon. Need a courier option now.,delivery_delay,urgent,easy,9
+INC-0315,val,train,Email from customer: Same-day blood samples run for Wayne Hardware is 3 hours behind and the surgery is scheduled for this afternoon. Need a courier option now.,delivery_delay,urgent,easy,9
+INC-0316,val,val,"Ticket via portal: Hi, my order SHP-82836 was meant to arrive Tuesday and hasn't come. Can someone give me an update please?",delivery_delay,normal,easy,4
+INC-0317,val,test,"Ticket via portal: Hi, my order SHP-14836 was meant to arrive last week and hasn't come. Can someone give me an update please?",delivery_delay,normal,easy,4
+INC-0318,val,train,"Shift lead: Hi, my order SHP-97643 was meant to arrive Tuesday and hasn't come. Can someone give me an update please?",delivery_delay,normal,easy,4
+INC-0319,val,train,"From the yard: Hi, my order SHP-98402 was meant to arrive Tuesday and hasn't come. Can someone give me an update please?",delivery_delay,normal,easy,4
+INC-0320,val,test,Ticket via portal: EORI number missing on the declaration for SHP-34398.,documentation_customs,normal,easy,66
+INC-0321,val,test,Ops note - EORI number missing on the declaration for SHP-97084.,documentation_customs,normal,easy,66
+INC-0322,val,train,Email from customer: eori number missing on the declaration for shp-80300.,documentation_customs,normal,easy,66
+INC-0323,val,train,Ticket via portal: EORI number missing on the declaration for SHP-77261.,documentation_customs,normal,easy,66
+INC-0324,val,train,Ticket via portal: EORI number missing on the declaration for SHP-29002.,documentation_customs,normal,easy,66
+INC-0325,val,train,WhatsApp from driver: EORI number missing on the declaration for SHP-97181.,documentation_customs,normal,easy,66
+INC-0326,val,val,Driver report: EORI number missing on teh declaration for SHP-74882.,documentation_customs,normal,easy,66
+INC-0327,val,train,"Email from customer: Driver reports someone is cutting the curtain of trailer at Hamburg port right now, he is watching from the cab. Load is white goods.",lost_or_stolen,urgent,easy,32
+INC-0328,val,train,Shift lead: Seal number on trailer doesn't match paperwork but load count is complete. Logging it.,lost_or_stolen,normal,easy,30
+INC-0329,val,train,"Email from customer: driver reports someone is cutting the curtain of trailer at antwerp terminal right now, he is watching from the cab. load is bottled drinks.",lost_or_stolen,urgent,easy,32
+INC-0330,val,train,From the yard: Seal number on trailer doesn't match paperwork but load count is complete. Logging it.,lost_or_stolen,normal,easy,30
+INC-0331,val,train,Call log: Seal number on trailer doesn't match paperwork but load count is complete. Logging it.,lost_or_stolen,normal,easy,30
+INC-0332,val,train,"Driver report: Driver reports someone is cutting the curtain of trailer at the M6 services near Stafford right now, he is watching from the cab. Load is printer cartridges.",lost_or_stolen,urgent,easy,32
+INC-0333,val,train,Email from customer: Seal number on trailer doesn't match paperwork but load count is complete. Logging it.,lost_or_stolen,normal,easy,30
+INC-0334,val,test,"Driver reports someone is cutting the curtain of trailer at Bay 12 right now, he is watching from the cab. Load is garden tools.",lost_or_stolen,urgent,easy,32
+INC-0335,val,test,Ticket via portal: Seal number on trailer doesn't match paperwork but load count is complete. Logging it.,lost_or_stolen,normal,easy,30
+INC-0336,val,test,"WhatsApp from driver: Driver reports someone is cutting the curtain of trailer at Warehouse B right now, he is watching from the cab. Load is pallets of electronics.",lost_or_stolen,urgent,easy,32
+INC-0337,val,train,"Call log: Hey team, sorry to bother, small one: a pallet of paint thinner on Dock 7 is leaking a bit onto the floor and a couple of folks feel dizzy.",safety_incident,urgent,hard,50
+INC-0338,val,test,"Shift lead: Hey team, sorry to botehr, small one: a pallet of paint thinner on Dock 7 is leaking a bit onto the floor and a couple of folks feel dizzy.",safety_incident,urgent,hard,50
+INC-0339,val,train,"Shift lead: Hey team, sorry to bother, small one: a pallet of chlorine tablets on Dock 7 is leaking a bit onto the floor and a couple of folks feel dizzy.",safety_incident,urgent,hard,50
+INC-0340,val,test,"Call log: Fire in the battery charging area at the M6 services near Stafford, fire brigade on the way.",safety_incident,urgent,easy,40
+INC-0341,val,test,"Driver report: Hey team, sorry to bother, small one: a pallet of battery acid on Dock 7 is leaking a bit onto the floor and a couple of folks feel dizzy.",safety_incident,urgent,hard,50
+INC-0342,val,train,"Ticket via portal: Fire in the battery charging area at Hamburg port, fire brigade on the way.",safety_incident,urgent,easy,40
+INC-0343,val,train,"Hey team, sorry to bother, small one: a pallet of lithium batteries on Dock 7 is leaking a bit onto the floor and a couple of folks feel dizzy.",safety_incident,urgent,hard,50
+INC-0344,val,train,"Shift lead: Monthly safety audit at the Manchester depot found two blocked fire exits, now cleared.",safety_incident,normal,easy,49
+INC-0345,val,test,"Driver report: Fire in the battery charging area at the Dublin yard, fire brigade on the way.",safety_incident,urgent,easy,40
+INC-0346,val,train,"WhatsApp from driver: Hey team, sorry to bother, small one: a pallet of lithium batteries on Dock 7 is leaking a bit onto the floor and a couple of folks feel dizzy.",safety_incident,urgent,hard,50
+INC-0347,val,train,"Shift lead: Hey team, sorry to bother, small one: a pallet of aerosol cans on Dock 7 is leaking a bit onto the floor and a couple of folks feel dizzy.",safety_incident,urgent,hard,50
+INC-0348,val,train,"Call log: Hey team, sorry to bother, small one: a pallet of aerosol cans on Dock 7 is leaking a bit onto the floor and a couple of folks feel dizzy.",safety_incident,urgent,hard,50
+INC-0349,val,train,"WhatsApp from driver: Monthly safety audit at Dock 7 found two blocked fire exits, now cleared.",safety_incident,normal,easy,49
+INC-0350,val,train,"Ops note - Fire in the battery charging area at Gate 4 at Felixstowe, fire brigade on the way.",safety_incident,urgent,easy,40
+INC-0351,val,val,"Shift lead: Monthly safety audit at Coventry DC found two blocked fire exits, now cleared.",safety_incident,normal,easy,49
+INC-0352,val,train,"Shift lead: Hey team, sorry to bother, small one: a pallet of diesel on Dock 7 is leaking a bit onto the floor and a couple of folks feel dizzy.",safety_incident,urgent,hard,50
+INC-0353,val,train,"Call log: Fire in the battery charging area at Warehouse B, fire brigade on the way.",safety_incident,urgent,easy,40
+INC-0354,val,test,"Email from customer: Fire in the battery charging area at Bay 12, fire brigade on the way.",safety_incident,urgent,easy,40
+INC-0355,val,val,"Email from customer: forklift F2 broke down in teh middle lane of the M6, hazard lights on, traffic building behind it.",vehicle_equipment_failure,urgent,easy,59
+INC-0356,val,test,"Ticket via portal: dock leveller 5 down since this morning, picking manually. Engineer coming at 3pm.",vehicle_equipment_failure,normal,easy,54
+INC-0357,val,train,"From the yard: the reefer unit on trailer 9 down since this morning, picking manually. Engineer coming at 3pm.",vehicle_equipment_failure,normal,easy,54
+INC-0358,val,test,"Email from customer: the sorter down since this morning, picking manually. engineer coming at 3pm.",vehicle_equipment_failure,normal,easy,54
+INC-0359,val,train,"Driver report: the tractor unit broke down in the middle lane of the M6, hazard lights on, traffic building behind it.",vehicle_equipment_failure,urgent,easy,59
+INC-0360,val,train,"Driver report: conveyor line 2 down since this morning, picking manually. Engineer coming at 3pm.",vehicle_equipment_failure,normal,easy,54
